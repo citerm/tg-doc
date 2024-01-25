@@ -1,0 +1,251 @@
+<mxfile host="app.diagrams.net" modified="2024-01-25T13:42:35.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="WFWFtmu4EWK92ocE_NcV" version="23.0.1" type="device">
+  <diagram name="Страница — 1" id="E6M1-Khg2qVgLsqtSy5o">
+    <mxGraphModel dx="3500" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LKlAM_tf8blOfadNrPfW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-1" target="LKlAM_tf8blOfadNrPfW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-2" value="Создать стол" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-2" target="LKlAM_tf8blOfadNrPfW-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.90999999999997" y="-80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-14" target="LKlAM_tf8blOfadNrPfW-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-14" value="Сесть за стол" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-108" target="LKlAM_tf8blOfadNrPfW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-20" value="Начать игру" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-28" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1000" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-58" target="LKlAM_tf8blOfadNrPfW-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694" y="-40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-58" target="LKlAM_tf8blOfadNrPfW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-58" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="355" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-61" target="LKlAM_tf8blOfadNrPfW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-61" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="240" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-65" target="LKlAM_tf8blOfadNrPfW-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-65" value="Бросить кубики" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-67" target="LKlAM_tf8blOfadNrPfW-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-67" value="Назначить красного игрока" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-69" target="LKlAM_tf8blOfadNrPfW-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-69" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-71" target="LKlAM_tf8blOfadNrPfW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-71" target="LKlAM_tf8blOfadNrPfW-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="430" as="sourcePoint" />
+            <mxPoint x="1120" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-71" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-73" target="LKlAM_tf8blOfadNrPfW-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-73" value="Разыграть красную карту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-71" target="LKlAM_tf8blOfadNrPfW-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-142" target="LKlAM_tf8blOfadNrPfW-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="830" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1480" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-20" target="LKlAM_tf8blOfadNrPfW-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="40" as="sourcePoint" />
+            <mxPoint x="660" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-108" value="Назначить текущего игрока" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-110" target="LKlAM_tf8blOfadNrPfW-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-110" value="Купить карту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-112" target="LKlAM_tf8blOfadNrPfW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-112" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="635" y="895" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-113" target="LKlAM_tf8blOfadNrPfW-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-113" value="Определить победителя" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-112" target="LKlAM_tf8blOfadNrPfW-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-119" target="LKlAM_tf8blOfadNrPfW-121" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-119" value="Назначить синего игрока" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-121" target="LKlAM_tf8blOfadNrPfW-123" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-121" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-123" target="LKlAM_tf8blOfadNrPfW-125" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-123" target="LKlAM_tf8blOfadNrPfW-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-123" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="400" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-125" target="LKlAM_tf8blOfadNrPfW-121" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-125" value="Разыграть синюю карту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-123" target="LKlAM_tf8blOfadNrPfW-119" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-128" target="LKlAM_tf8blOfadNrPfW-130" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-128" value="Назначить зеленого игрока" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-130" target="LKlAM_tf8blOfadNrPfW-132" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-130" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="494" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-132" target="LKlAM_tf8blOfadNrPfW-134" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LKlAM_tf8blOfadNrPfW-132" target="LKlAM_tf8blOfadNrPfW-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-132" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="599" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-134" target="LKlAM_tf8blOfadNrPfW-130" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-134" value="Разыграть зеленую карту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-132" target="LKlAM_tf8blOfadNrPfW-128" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-138" target="LKlAM_tf8blOfadNrPfW-140" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-138" value="Назначить фиолетового игрока" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-140" target="LKlAM_tf8blOfadNrPfW-142" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-140" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="695" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-142" target="LKlAM_tf8blOfadNrPfW-144" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-142" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="800" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-144" target="LKlAM_tf8blOfadNrPfW-140" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-144" value="Разыграть фиолетовую карту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKlAM_tf8blOfadNrPfW-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LKlAM_tf8blOfadNrPfW-142" target="LKlAM_tf8blOfadNrPfW-138" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
