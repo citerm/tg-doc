@@ -1,0 +1,19 @@
+request:
+  player: "Nikita"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "false"
+  minPlayers: "2"
+  maxPlayers: "5"
+  players: "1"
+playerOne:
+  name: "Nikita"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
