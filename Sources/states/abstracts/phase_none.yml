@@ -1,0 +1,6 @@
+table:
+  currentPlayer: "undefined"
+  redPlayer: "undefined"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"

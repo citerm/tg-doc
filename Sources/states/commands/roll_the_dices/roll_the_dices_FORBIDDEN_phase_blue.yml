@@ -1,0 +1,10 @@
+request:
+  player: "Nikita"
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Eugene"
+  bluePlayer: "Eugene"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  dice_one: "undefined"
+  dice_two: "undefined"

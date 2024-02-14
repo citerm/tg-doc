@@ -1,0 +1,6 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "undefined"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
