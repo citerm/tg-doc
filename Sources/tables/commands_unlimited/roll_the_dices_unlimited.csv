@@ -1,3 +1,4 @@
+is_player_defined::outcome;constant::true
 phase::outcome;constant::dice
 is_dices_saved::outcome;constant::false
 is_player_current::outcome;constant::true
