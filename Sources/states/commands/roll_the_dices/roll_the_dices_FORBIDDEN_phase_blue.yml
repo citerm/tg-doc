@@ -6,5 +6,5 @@ table:
   bluePlayer: "Eugene"
   greenPlayer: "undefined"
   purplePlayer: "undefined"
-  dice_one: "undefined"
-  dice_two: "undefined"
+  diceOne: "undefined"
+  diceTwo: "undefined"
