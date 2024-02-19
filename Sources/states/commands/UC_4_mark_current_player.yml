@@ -1,0 +1,29 @@
+request:
+  player: "AutoBOT"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "true"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "2"
+  currentPlayer: "undefined"
+  redPlayer: "undefined"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceOne: "undefined"
+  diceTwo: "undefined"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "Nikita"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+---
+mark_current_player:
+  enabled: "true"
