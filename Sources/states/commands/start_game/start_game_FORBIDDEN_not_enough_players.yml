@@ -1,0 +1,29 @@
+request:
+  player: "Eugene"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "false"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "1"
+  currentPlayer: "undefined"
+  redPlayer: "undefined"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceOne: "undefined"
+  diceTwo: "undefined"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+---
+start_game:
+  enabled: "false"
