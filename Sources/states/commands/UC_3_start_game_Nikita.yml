@@ -3,17 +3,10 @@ request:
   tableId: "0000"
 table:
   id: "0000"
-  isStarted: "true"
+  isStarted: "false"
   minPlayers: "1"
   maxPlayers: "5"
   players: "2"
-  currentPlayer: "undefined"
-  redPlayer: "undefined"
-  bluePlayer: "undefined"
-  greenPlayer: "undefined"
-  purplePlayer: "undefined"
-  diceOne: "undefined"
-  diceTwo: "undefined"
 playerOne:
   name: "Eugene"
 playerTwo:
@@ -26,4 +19,4 @@ playerFive:
   name: "undefined"
 ---
 start_game:
-  enabled: "false"
+  enabled: "true"

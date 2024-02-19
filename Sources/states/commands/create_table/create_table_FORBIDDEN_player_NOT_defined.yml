@@ -1,5 +1,0 @@
-request:
-  something: "anything"
----
-create_table:
-  enabled: "false"

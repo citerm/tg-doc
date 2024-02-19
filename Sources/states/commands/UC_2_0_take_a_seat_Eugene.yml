@@ -6,16 +6,9 @@ table:
   isStarted: "false"
   minPlayers: "1"
   maxPlayers: "5"
-  players: "1"
-  currentPlayer: "undefined"
-  redPlayer: "undefined"
-  bluePlayer: "undefined"
-  greenPlayer: "undefined"
-  purplePlayer: "undefined"
-  diceOne: "undefined"
-  diceTwo: "undefined"
+  players: "0"
 playerOne:
-  name: "Eugene"
+  name: "undefined"
 playerTwo:
   name: "undefined"
 playerThree:
@@ -25,5 +18,5 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
-start_game:
-  enabled: "false"
+take_a_seat:
+  enabled: "true"
