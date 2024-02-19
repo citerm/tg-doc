@@ -1,12 +1,5 @@
 request:
   player: "Nikita"
-  tableId: "0000"
-table:
-  id: "0000"
-  isStarted: "false"
-  minPlayers: "2"
-  maxPlayers: "5"
-  players: "5"
 playerOne:
   name: "Eugene"
 playerTwo:

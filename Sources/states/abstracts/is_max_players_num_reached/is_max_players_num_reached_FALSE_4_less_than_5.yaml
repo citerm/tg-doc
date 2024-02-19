@@ -1,0 +1,6 @@
+table:
+  maxPlayers: "5"
+  players: "4"
+---
+is_max_players_num_reached:
+  outcome: "false"

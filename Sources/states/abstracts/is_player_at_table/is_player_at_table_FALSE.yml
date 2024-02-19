@@ -1,14 +1,7 @@
 request:
   player: "Nikita"
-  tableId: "0000"
-table:
-  id: "0000"
-  isStarted: "false"
-  minPlayers: "2"
-  maxPlayers: "5"
-  players: "1"
 playerOne:
-  name: "Nikita"
+  name: "Eugene"
 playerTwo:
   name: "undefined"
 playerThree:
@@ -19,4 +12,4 @@ playerFive:
   name: "undefined"
 ---
 is_player_at_table:
-  outcome: "true"
+  outcome: "false"

@@ -1,0 +1,5 @@
+table:
+  isStarted: "true"
+---
+is_game_started:
+  outcome: "true"

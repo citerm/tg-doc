@@ -1,0 +1,7 @@
+request:
+  tableId: "0000"
+table:
+  id: "0000"
+---
+is_chosen_table_id_correct:
+  outcome: "true"

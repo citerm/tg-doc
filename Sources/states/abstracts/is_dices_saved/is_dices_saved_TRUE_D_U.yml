@@ -1,0 +1,6 @@
+table:
+  diceOne: "1"
+  diceTwo: "undefined"
+---
+is_dices_saved:
+  outcome: "true"
