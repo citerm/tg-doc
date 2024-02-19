@@ -6,3 +6,6 @@ table:
   purplePlayer: "undefined"
   diceOne: "undefined"
   diceTwo: "undefined"
+---
+is_dices_saved:
+  outcome: "false"

@@ -8,3 +8,6 @@ table:
   purplePlayer: "Nikita"
   diceOne: "undefined"
   diceTwo: "undefined"
+---
+roll_the_dices:
+  enabled: "false"

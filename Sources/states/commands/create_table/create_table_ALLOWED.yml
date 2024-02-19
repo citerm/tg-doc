@@ -1,2 +1,5 @@
 request:
   player: "Nikita"
+---
+create_table:
+  enabled: "true"

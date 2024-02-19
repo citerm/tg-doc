@@ -24,3 +24,6 @@ playerFour:
   name: "undefined"
 playerFive:
   name: "undefined"
+---
+take_a_seat:
+  enabled: "false"

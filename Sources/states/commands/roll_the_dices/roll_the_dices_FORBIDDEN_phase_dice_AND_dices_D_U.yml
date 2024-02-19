@@ -8,3 +8,6 @@ table:
   purplePlayer: "undefined"
   diceOne: "1"
   diceTwo: "undefined"
+---
+roll_the_dices:
+  enabled: "false"

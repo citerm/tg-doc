@@ -17,3 +17,6 @@ playerFour:
   name: "undefined"
 playerFive:
   name: "undefined"
+---
+is_player_at_table:
+  outcome: "true"
