@@ -3,9 +3,9 @@ request:
   tableId: "0000"
 table:
   id: "0000"
-  isStarted: "true"
+  isStarted: "false"
   currentPlayer: "Nikita"
-  redPlayer: "Eugene"
+  redPlayer: "undefined"
   bluePlayer: "undefined"
   greenPlayer: "undefined"
   purplePlayer: "undefined"

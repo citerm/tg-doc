@@ -1,11 +1,11 @@
 request:
   player: "Nikita"
-  tableId: "0000"
+  tableId: "0001"
 table:
   id: "0000"
   isStarted: "true"
   currentPlayer: "Nikita"
-  redPlayer: "Eugene"
+  redPlayer: "undefined"
   bluePlayer: "undefined"
   greenPlayer: "undefined"
   purplePlayer: "undefined"

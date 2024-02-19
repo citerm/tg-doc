@@ -1,6 +1,9 @@
 request:
   player: "Nikita"
+  tableId: "0000"
 table:
+  id: "0000"
+  isStarted: "true"
   currentPlayer: "Nikita"
   redPlayer: "Eugene"
   bluePlayer: "Eugene"
