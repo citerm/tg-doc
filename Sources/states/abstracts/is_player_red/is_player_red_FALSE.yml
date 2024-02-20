@@ -1,0 +1,7 @@
+request:
+  player: "Nikita"
+table:
+  redPlayer: "Eugene"
+---
+is_player_red:
+  outcome: "false"
