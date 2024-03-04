@@ -1,5 +1,5 @@
 request:
-  player: "AutoBOT"
+  player: "Eugene"
   tableId: "0000"
 table:
   id: "0000"
@@ -7,12 +7,12 @@ table:
   minPlayers: "1"
   maxPlayers: "5"
   players: "2"
-  currentPlayer: "Nikita"
+  currentPlayer: "undefined"
   redPlayer: "undefined"
   bluePlayer: "undefined"
   greenPlayer: "undefined"
   purplePlayer: "undefined"
-  diceOne: "1"
+  diceOne: "undefined"
   diceTwo: "undefined"
 playerOne:
   name: "Eugene"
@@ -25,5 +25,5 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
-mark_red_player:
+mark_current_player:
   enabled: "true"
