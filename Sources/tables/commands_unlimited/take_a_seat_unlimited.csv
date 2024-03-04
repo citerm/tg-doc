@@ -1,0 +1,7 @@
+is_player_defined::outcome;constant::true
+is_chosen_table_id_correct::outcome;constant::true
+is_game_started::outcome;constant::false
+is_max_players_num_reached::outcome;constant::false
+is_player_at_table::outcome;constant::false
+---
+outcome;true

@@ -1,0 +1,15 @@
+request:
+  player: "Nikita"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+---
+is_player_at_table:
+  outcome: "false"

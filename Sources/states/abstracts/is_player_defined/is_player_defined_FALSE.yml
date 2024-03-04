@@ -1,0 +1,5 @@
+request:
+  something: "anything"
+---
+is_player_defined:
+  outcome: "false"

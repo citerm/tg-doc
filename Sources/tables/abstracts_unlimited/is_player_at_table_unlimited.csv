@@ -1,0 +1,7 @@
+is_player_at_seat_one::outcome;constant::false
+is_player_at_seat_two::outcome;constant::false
+is_player_at_seat_three::outcome;constant::false
+is_player_at_seat_four::outcome;constant::false
+is_player_at_seat_five::outcome;constant::false
+---
+outcome;false

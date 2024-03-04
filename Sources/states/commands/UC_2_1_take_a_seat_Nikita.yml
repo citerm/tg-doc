@@ -1,0 +1,22 @@
+request:
+  player: "Nikita"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "false"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "1"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+---
+take_a_seat:
+  enabled: "true"

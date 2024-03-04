@@ -1,0 +1,9 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Eugene"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+---
+phase:
+  outcome: "red"

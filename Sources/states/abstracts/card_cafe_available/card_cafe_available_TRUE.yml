@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Eugene"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceTotal: "3"
+playerCards:
+  cafe: "1"
+cardCafe:
+  phase: "red"
+  faceValueOne: "3"
+---
+card_cafe_available:
+  outcome: "true"

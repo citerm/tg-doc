@@ -1,0 +1,7 @@
+request:
+  player: "Nikita"
+table:
+  currentPlayer: "Nikita"
+---
+is_player_current:
+  outcome: "true"

@@ -1,0 +1,5 @@
+request:
+  player: "Nikita"
+---
+is_player_defined:
+  outcome: "true"
