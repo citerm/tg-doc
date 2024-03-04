@@ -29,7 +29,7 @@ playerCards:
   wheatField: "1"
   farm: "1"
   bakery: "1"
-  cafe: "1"
+  cafe: "0"
   shop: "1"
   forest: "1"
   businessCenter: "1"
