@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Eugene"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceTotal: "1"
+playerCards:
+  farm: "1"
+cardFarm:
+  phase: "blue"
+  faceValueOne: "2"
+---
+card_farm_available:
+  outcome: "false"
