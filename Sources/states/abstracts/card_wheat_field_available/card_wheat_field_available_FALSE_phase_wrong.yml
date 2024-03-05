@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceTotal: "1"
+playerCards:
+  wheatField: "1"
+cardWheatField:
+  phase: "blue"
+  faceValueOne: "1"
+---
+card_wheat_field_available:
+  outcome: "false"
