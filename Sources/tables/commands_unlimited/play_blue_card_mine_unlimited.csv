@@ -1,0 +1,8 @@
+is_player_defined::outcome;constant::true
+is_chosen_table_id_correct::outcome;constant::true
+is_game_started::outcome;constant::true
+phase::outcome;constant::blue
+is_player_blue::outcome;constant::true
+card_mine_available::outcome;constant::true
+---
+outcome;true
