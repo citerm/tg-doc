@@ -1,0 +1,7 @@
+request:
+  player: "Nikita"
+table:
+  bluePlayer: "Nikita"
+---
+is_player_blue:
+  outcome: "true"
