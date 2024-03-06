@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Eugene"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceTotal: "4"
+playerCards:
+  forest: "1"
+cardForest:
+  phase: "blue"
+  faceValueOne: "5"
+---
+card_forest_available:
+  outcome: "false"
