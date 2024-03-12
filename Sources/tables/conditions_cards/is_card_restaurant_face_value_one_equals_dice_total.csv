@@ -1,3 +1,3 @@
-limited_card_restaurant_face_value_one_equals_dice_total::outcome;constant::undefined;constant::true
+cardRestaurant::faceValueOne;table::diceTotal
 ---
-outcome;false;true
+outcome;true;false

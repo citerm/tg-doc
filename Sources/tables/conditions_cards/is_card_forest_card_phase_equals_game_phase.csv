@@ -1,3 +1,3 @@
-limited_card_forest_card_phase_equals_game_phase::outcome;constant::undefined;constant::true
+cardForest::phase;phase::outcome
 ---
-outcome;false;true
+outcome;true;false
