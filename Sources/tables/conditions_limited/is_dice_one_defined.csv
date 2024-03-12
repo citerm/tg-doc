@@ -1,3 +1,3 @@
-limited_dice_one::outcome;constant::undefined;constant::false
+table::diceOne;constant::undefined
 ---
-outcome;true;false
+outcome;false;true

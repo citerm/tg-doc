@@ -1,3 +1,3 @@
-limited_min_players_num_not_reached::outcome;constant::undefined;constant::true
+table::players;table::minPlayers
 ---
-outcome;false;true
+outcome;true;false
