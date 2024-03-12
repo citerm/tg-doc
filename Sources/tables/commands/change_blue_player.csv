@@ -10,4 +10,4 @@ card_forest_available::outcome;constant::false
 card_mine_available::outcome;constant::false
 card_apple_orchard_available::outcome;constant::false
 ---
-outcome;true
+enabled;true;false

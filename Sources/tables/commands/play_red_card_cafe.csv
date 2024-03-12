@@ -4,6 +4,6 @@ is_game_started::outcome;constant::true
 phase::outcome;constant::red
 is_player_current::outcome;constant::false
 is_player_red::outcome;constant::true
-card_restaurant_available::outcome;constant::true
+card_cafe_available::outcome;constant::true
 ---
-outcome;true
+enabled;true;false
