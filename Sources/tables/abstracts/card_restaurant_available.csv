@@ -3,4 +3,4 @@ is_card_restaurant_face_value_two_equals_dice_total::outcome;constant::false;con
 is_card_restaurant_all_used::outcome;constant::false;constant::false
 is_card_restaurant_card_phase_equals_game_phase::outcome;constant::true;constant::true
 ---
-outcome;true;false
+outcome;true;true;false
