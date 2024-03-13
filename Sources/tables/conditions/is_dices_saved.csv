@@ -1,4 +1,4 @@
-is_dice_one_defined::outcome;constant::false
-is_dice_two_defined::outcome;constant::false
+is_dice_one_defined::outcome;false
+is_dice_two_defined::outcome;false
 ---
 outcome;false;true

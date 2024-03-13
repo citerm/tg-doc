@@ -1,8 +1,8 @@
-is_player_defined::outcome;constant::true
-is_chosen_table_id_correct::outcome;constant::true
-is_game_started::outcome;constant::true
-phase::outcome;constant::red
-is_player_current::outcome;constant::true
-is_player_red::outcome;constant::true
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;red
+is_player_current::outcome;true
+is_player_red::outcome;true
 ---
 enabled;true;false

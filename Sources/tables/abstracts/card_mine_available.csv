@@ -1,5 +1,5 @@
-is_card_mine_face_value_one_equals_dice_total::outcome;constant::true
-is_card_mine_all_used::outcome;constant::false
-is_card_mine_card_phase_equals_game_phase::outcome;constant::true
+is_card_mine_face_value_one_equals_dice_total::outcome;true
+is_card_mine_all_used::outcome;false
+is_card_mine_card_phase_equals_game_phase::outcome;true
 ---
 outcome;true;false

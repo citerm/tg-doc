@@ -1,7 +1,7 @@
-is_current_defined::outcome;constant::true;constant::true;constant::true;constant::true;constant::true
-is_red_defined::outcome;constant::false;constant::true;constant::true;constant::true;constant::true
-is_blue_defined::outcome;constant::false;constant::false;constant::true;constant::true;constant::true
-is_green_defined::outcome;constant::false;constant::false;constant::false;constant::true;constant::true
-is_purple_defined::outcome;constant::false;constant::false;constant::false;constant::false;constant::true
+is_current_defined::outcome;true;true;true;true;true
+is_red_defined::outcome;false;true;true;true;true
+is_blue_defined::outcome;false;false;true;true;true
+is_green_defined::outcome;false;false;false;true;true
+is_purple_defined::outcome;false;false;false;false;true
 ---
 outcome;dice;red;blue;green;purple;none
