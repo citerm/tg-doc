@@ -1,0 +1,16 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceTotal: "2"
+playerCards:
+  bakery: "1"
+cardBakery:
+  phase: "green"
+  faceValueOne: "2"
+  faceValueTwo: "3"
+---
+card_bakery_available:
+  outcome: "true"
