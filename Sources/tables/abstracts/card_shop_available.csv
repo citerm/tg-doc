@@ -1,0 +1,5 @@
+is_card_shop_face_value_one_equals_dice_total::outcome;true
+is_card_shop_all_used::outcome;false
+is_card_shop_card_phase_equals_game_phase::outcome;true
+---
+outcome;true;false
