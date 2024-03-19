@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceTotal: "8"
+playerCards:
+  furnitureFactory: "1"
+cardFurnitureFactory:
+  phase: "green"
+  faceValueOne: "8"
+---
+card_furniture_factory_available:
+  outcome: "true"
