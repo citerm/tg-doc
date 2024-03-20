@@ -1,5 +1,5 @@
-is_card_cafe_face_value_one_equals_dice_total::outcome;true
-is_card_cafe_all_used::outcome;false
-is_card_cafe_card_phase_equals_game_phase::outcome;true
+is_card_cafe_face_value_equals_dice_total::outcome;true
+playerCards::cafe;!0
+cardCafe::phase;phase::outcome
 ---
 outcome;true;false

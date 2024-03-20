@@ -1,7 +1,7 @@
-is_player_at_seat_one::outcome;false
-is_player_at_seat_two::outcome;false
-is_player_at_seat_three::outcome;false
-is_player_at_seat_four::outcome;false
-is_player_at_seat_five::outcome;false
+playerOne::name;!request::player
+playerTwo::name;!request::player
+playerThree::name;!request::player
+playerFour::name;!request::player
+playerFive::name;!request::player
 ---
 outcome;false;true

@@ -1,5 +1,5 @@
-is_card_forest_face_value_one_equals_dice_total::outcome;true
-is_card_forest_all_used::outcome;false
-is_card_forest_card_phase_equals_game_phase::outcome;true
+is_card_forest_face_value_equals_dice_total::outcome;true
+playerCards::forest;!0
+cardForest::phase;phase::outcome
 ---
 outcome;true;false

@@ -1,6 +1,5 @@
-is_card_restaurant_face_value_one_equals_dice_total::outcome;true;false
-is_card_restaurant_face_value_two_equals_dice_total::outcome;false;true
-is_card_restaurant_all_used::outcome;false;false
-is_card_restaurant_card_phase_equals_game_phase::outcome;true;true
+is_card_restaurant_face_value_equals_dice_total::outcome;true
+playerCards::restaurant;!0
+cardRestaurant::phase;phase::outcome
 ---
-outcome;true;true;false
+outcome;true;false
