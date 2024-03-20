@@ -1,0 +1,7 @@
+request:
+  player: "Nikita"
+table:
+  purplePlayer: "Eugene"
+---
+is_player_purple:
+  outcome: "false"
