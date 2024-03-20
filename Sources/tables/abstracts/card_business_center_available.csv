@@ -1,4 +1,4 @@
-is_card_card_businessCenter_face_value_equals_dice_total::outcome;true
+is_card_card_business_center_face_value_equals_dice_total::outcome;true
 playerCards::businessCenter;!0
 cardBusinessCenter::phase;phase::outcome
 ---
