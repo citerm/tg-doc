@@ -1,0 +1,5 @@
+is_card_card_television_center_face_value_equals_dice_total::outcome;true
+playerCards::televisionCenter;!0
+cardTelevisionCenter::phase;phase::outcome
+---
+outcome;true;false
