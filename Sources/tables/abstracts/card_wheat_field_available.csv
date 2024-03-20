@@ -1,0 +1,5 @@
+is_card_wheat_field_face_value_equals_dice_total::outcome;true
+playerCards::wheatField;!0
+cardWheatField::phase;phase::outcome
+---
+outcome;true;false

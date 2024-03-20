@@ -1,0 +1,5 @@
+is_card_shop_face_value_equals_dice_total::outcome;true
+playerCards::shop;!0
+cardShop::phase;phase::outcome
+---
+outcome;true;false

@@ -1,0 +1,9 @@
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;green
+is_player_current::outcome;true
+is_player_green::outcome;true
+card_bakery_available::outcome;true
+---
+enabled;true;false

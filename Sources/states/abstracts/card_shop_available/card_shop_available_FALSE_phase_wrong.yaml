@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceTotal: "4"
+playerCards:
+  shop: "1"
+cardShop:
+  phase: "green"
+  faceValueOne: "4"
+---
+card_shop_available:
+  outcome: "false"

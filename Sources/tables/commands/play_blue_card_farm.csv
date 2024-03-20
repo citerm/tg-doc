@@ -1,0 +1,8 @@
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;blue
+is_player_blue::outcome;true
+card_farm_available::outcome;true
+---
+enabled;true;false

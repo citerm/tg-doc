@@ -1,0 +1,5 @@
+is_card_stadium_face_value_equals_dice_total::outcome;true
+playerCards::stadium;!0
+cardStadium::phase;phase::outcome
+---
+outcome;true;false

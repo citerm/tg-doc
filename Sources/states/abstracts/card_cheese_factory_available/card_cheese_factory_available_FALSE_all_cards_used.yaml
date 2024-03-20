@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceTotal: "7"
+playerCards:
+  cheeseFactory: "0"
+cardCheeseFactory:
+  phase: "green"
+  faceValueOne: "7"
+---
+card_cheese_factory_available:
+  outcome: "false"

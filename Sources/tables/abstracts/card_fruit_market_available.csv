@@ -1,0 +1,5 @@
+is_card_fruit_market_face_value_equals_dice_total::outcome;true
+playerCards::fruitMarket;!0
+cardFruitMarket::phase;phase::outcome
+---
+outcome;true;false

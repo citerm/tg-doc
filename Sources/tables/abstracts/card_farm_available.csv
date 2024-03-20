@@ -1,0 +1,5 @@
+is_card_farm_face_value_equals_dice_total::outcome;true
+playerCards::farm;!0
+cardFarm::phase;phase::outcome
+---
+outcome;true;false

@@ -1,0 +1,7 @@
+playerOne::name;!request::player
+playerTwo::name;!request::player
+playerThree::name;!request::player
+playerFour::name;!request::player
+playerFive::name;!request::player
+---
+outcome;false;true

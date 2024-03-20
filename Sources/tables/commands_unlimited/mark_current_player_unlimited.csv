@@ -1,6 +1,0 @@
-is_player_defined::outcome;constant::true
-is_chosen_table_id_correct::outcome;constant::true
-is_game_started::outcome;constant::true
-phase::outcome;constant::none
----
-outcome;true

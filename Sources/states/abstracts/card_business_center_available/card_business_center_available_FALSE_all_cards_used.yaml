@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "Nikita"
+  diceTotal: "6"
+playerCards:
+  businessCenter: "0"
+cardBusinessCenter:
+  phase: "purple"
+  faceValueOne: "6"
+---
+card_business_center_available:
+  outcome: "false"

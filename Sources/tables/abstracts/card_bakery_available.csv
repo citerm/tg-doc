@@ -1,0 +1,5 @@
+is_card_bakery_face_value_equals_dice_total::outcome;true
+playerCards::bakery;!0
+cardBakery::phase;phase::outcome
+---
+outcome;true;false

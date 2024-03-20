@@ -1,0 +1,5 @@
+is_card_furniture_factory_face_value_equals_dice_total::outcome;true
+playerCards::furnitureFactory;!0
+cardFurnitureFactory::phase;phase::outcome
+---
+outcome;true;false

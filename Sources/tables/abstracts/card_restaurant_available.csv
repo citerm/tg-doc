@@ -1,0 +1,5 @@
+is_card_restaurant_face_value_equals_dice_total::outcome;true
+playerCards::restaurant;!0
+cardRestaurant::phase;phase::outcome
+---
+outcome;true;false

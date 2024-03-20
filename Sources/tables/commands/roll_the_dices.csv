@@ -1,0 +1,8 @@
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;dice
+is_player_current::outcome;true
+is_dices_saved::outcome;false
+---
+enabled;true;false

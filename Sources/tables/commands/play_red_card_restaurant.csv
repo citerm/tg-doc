@@ -1,0 +1,9 @@
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;red
+is_player_current::outcome;false
+is_player_red::outcome;true
+card_restaurant_available::outcome;true
+---
+enabled;true;false

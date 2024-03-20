@@ -1,0 +1,15 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "Nikita"
+  diceTotal: "7"
+playerCards:
+  stadium: "1"
+cardStadium:
+  phase: "purple"
+  faceValueOne: "6"
+---
+card_stadium_available:
+  outcome: "false"

@@ -1,0 +1,16 @@
+table:
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceTotal: "11"
+playerCards:
+  fruitMarket: "0"
+cardFruitMarket:
+  phase: "green"
+  faceValueOne: "11"
+  faceValueTwo: "12"
+---
+card_fruit_market_available:
+  outcome: "false"

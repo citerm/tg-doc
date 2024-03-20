@@ -1,6 +1,0 @@
-is_card_restaurant_face_value_one_equals_dice_total::outcome;constant::true;constant::false
-is_card_restaurant_face_value_two_equals_dice_total::outcome;constant::false;constant::true
-is_card_restaurant_all_used::outcome;constant::false;constant::false
-is_card_restaurant_card_phase_equals_game_phase::outcome;constant::true;constant::true
----
-outcome;true;true

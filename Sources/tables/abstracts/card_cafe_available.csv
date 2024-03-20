@@ -1,0 +1,5 @@
+is_card_cafe_face_value_equals_dice_total::outcome;true
+playerCards::cafe;!0
+cardCafe::phase;phase::outcome
+---
+outcome;true;false

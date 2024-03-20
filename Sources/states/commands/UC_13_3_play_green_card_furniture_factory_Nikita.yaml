@@ -1,0 +1,81 @@
+request:
+  player: "Nikita"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "true"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "2"
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "undefined"
+  diceOne: "6"
+  diceTwo: "2"
+  diceTotal: "8"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "Nikita"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+playerCards:
+  wheatField: "1"
+  farm: "1"
+  bakery: "1"
+  cafe: "1"
+  shop: "1"
+  forest: "1"
+  businessCenter: "1"
+  televisionCenter: "1"
+  stadium: "1"
+  cheeseFactory: "1"
+  furnitureFactory: "1"
+  mine: "1"
+  restaurant: "1"
+  appleOrchard: "1"
+  fruitMarket: "1"
+cardWheatField:
+  phase: "blue"
+  faceValueOne: "1"
+cardFarm:
+  phase: "blue"
+  faceValueOne: "2"
+cardBakery:
+  phase: "green"
+  faceValueOne: "2"
+  faceValueTwo: "3"
+cardCafe:
+  phase: "red"
+  faceValueOne: "3"
+cardShop:
+  phase: "green"
+  faceValueOne: "4"
+cardForest:
+  phase: "blue"
+  faceValueOne: "5"
+cardCheeseFactory:
+  phase: "green"
+  faceValueOne: "7"
+cardFurnitureFactory:
+  phase: "green"
+  faceValueOne: "8"
+cardMine:
+  phase: "blue"
+  faceValueOne: "9"
+cardRestaurant:
+  phase: "red"
+  faceValueOne: "9"
+  faceValueTwo: "10"
+cardAppleOrchard:
+  phase: "blue"
+  faceValueOne: "10"
+---
+play_green_card_furniture_factory:
+  enabled: "true"
