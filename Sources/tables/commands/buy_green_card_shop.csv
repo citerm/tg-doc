@@ -1,0 +1,11 @@
+is_player_defined::outcome;true
+is_chosen_table_id_correct::outcome;true
+is_game_started::outcome;true
+phase::outcome;purple
+is_player_current::outcome;true
+is_player_purple::outcome;true
+is_purple_phase_done::outcome;true
+cardShop::cost;!>playerBalance::value
+tableCards::shop;!0
+---
+enabled;true;false
