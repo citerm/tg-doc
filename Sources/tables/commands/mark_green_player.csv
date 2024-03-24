@@ -4,10 +4,6 @@ is_game_started::outcome;true
 phase::outcome;blue
 is_player_current::outcome;true
 is_player_blue::outcome;true
-card_wheat_field_available::outcome;false
-card_farm_available::outcome;false
-card_forest_available::outcome;false
-card_mine_available::outcome;false
-card_apple_orchard_available::outcome;false
+is_blue_phase_done::outcome;true
 ---
 enabled;true;false

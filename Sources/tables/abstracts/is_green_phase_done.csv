@@ -1,0 +1,7 @@
+card_bakery_available::outcome;false
+card_cheese_factory_available::outcome;false
+card_fruit_market_available::outcome;false
+card_furniture_factory_available::outcome;false
+card_shop_available::outcome;false
+---
+outcome;true;false
