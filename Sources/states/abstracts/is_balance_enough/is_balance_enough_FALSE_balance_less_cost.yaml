@@ -1,0 +1,9 @@
+playerBalance: 
+  value: "0"
+cardWheatField:
+  phase: "blue"
+  faceValueOne: "1"
+  cost: "1"
+---
+is_balance_enough:
+  outcome: "false"
