@@ -1,0 +1,12 @@
+is_player_defined::outcome;true;true;true
+is_chosen_table_id_correct::outcome;true;true;true
+is_game_started::outcome;true;true;true
+phase::outcome;purple;purple;purple
+is_player_current::outcome;true;true;true
+is_player_purple::outcome;true;true;true
+is_purple_phase_done::outcome;true;true;true
+cardWheatField::cost;!>playerBalance::value;!>playerBalance::value;>playerBalance::value
+tableCards::wheatField;!0;0;!0
+---
+enabled;true;false;false;false
+tooltip;OK;No cards on the market;Not enough money;Not OK

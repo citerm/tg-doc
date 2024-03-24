@@ -1,0 +1,5 @@
+card_business_center_available::outcome;false
+card_stadium_available::outcome;false
+card_television_center_available::outcome;false
+---
+outcome;true;false
