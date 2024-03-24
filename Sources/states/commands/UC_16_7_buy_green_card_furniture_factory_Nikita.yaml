@@ -1,0 +1,113 @@
+request:
+  player: "Nikita"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "true"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "2"
+  currentPlayer: "Nikita"
+  redPlayer: "Nikita"
+  bluePlayer: "Nikita"
+  greenPlayer: "Nikita"
+  purplePlayer: "Nikita"
+  diceOne: "6"
+  diceTwo: "0"
+  diceTotal: "6"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "Nikita"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+playerCards:
+  wheatField: "1"
+  farm: "1"
+  bakery: "1"
+  cafe: "1"
+  shop: "1"
+  forest: "1"
+  businessCenter: "0"
+  televisionCenter: "0"
+  stadium: "0"
+  cheeseFactory: "1"
+  furnitureFactory: "1"
+  mine: "1"
+  restaurant: "1"
+  appleOrchard: "1"
+  fruitMarket: "1"
+tableCards:
+  wheatField: "1"
+  farm: "1"
+  bakery: "1"
+  cafe: "1"
+  shop: "1"
+  forest: "1"
+  cheeseFactory: "1"
+  furnitureFactory: "1"
+playerBalance: 
+  value: "3"
+cardWheatField:
+  phase: "blue"
+  faceValueOne: "1"
+  cost: "1"
+cardFarm:
+  phase: "blue"
+  faceValueOne: "2"
+  cost: "1"
+cardBakery:
+  phase: "green"
+  faceValueOne: "2"
+  faceValueTwo: "3"
+  cost: "1"
+cardCafe:
+  phase: "red"
+  faceValueOne: "3"
+  cost: "2"
+cardShop:
+  phase: "green"
+  faceValueOne: "4"
+  cost: "2"
+cardForest:
+  phase: "blue"
+  faceValueOne: "5"
+  cost: "3"
+cardBusinessCenter:
+  phase: "purple"
+  faceValueOne: "6"
+cardTelevisionCenter:
+  phase: "purple"
+  faceValueOne: "6"
+cardStadium:
+  phase: "purple"
+  faceValueOne: "6"
+cardCheeseFactory:
+  phase: "green"
+  faceValueOne: "7"
+  cost: "5"
+cardFurnitureFactory:
+  phase: "green"
+  faceValueOne: "8"
+  cost: "3"
+cardMine:
+  phase: "blue"
+  faceValueOne: "9"
+cardRestaurant:
+  phase: "red"
+  faceValueOne: "9"
+  faceValueTwo: "10"
+cardAppleOrchard:
+  phase: "blue"
+  faceValueOne: "10"
+cardFruitMarket:
+  phase: "green"
+  faceValueOne: "11"
+  faceValueTwo: "12"
+---
+buy_green_card_furniture_factory:
+  enabled: "true"
