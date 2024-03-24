@@ -4,10 +4,6 @@ is_game_started::outcome;true
 phase::outcome;green
 is_player_current::outcome;true
 is_player_green::outcome;true
-card_bakery_available::outcome;false
-card_cheese_factory_available::outcome;false
-card_fruit_market_available::outcome;false
-card_furniture_factory_available::outcome;false
-card_shop_available::outcome;false
+is_green_phase_done::outcome;true
 ---
 enabled;true;false

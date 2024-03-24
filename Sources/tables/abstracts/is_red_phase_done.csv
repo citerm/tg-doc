@@ -1,0 +1,4 @@
+card_cafe_available::outcome;false
+card_restaurant_available::outcome;false
+---
+outcome;true;false
