@@ -7,5 +7,6 @@ is_player_purple::outcome;true
 is_purple_phase_done::outcome;true
 cardRestaurant::cost;!>playerBalance::value
 tableCards::restaurant;!0
+is_buyer_defined::outcome;false
 ---
 enabled;true;false

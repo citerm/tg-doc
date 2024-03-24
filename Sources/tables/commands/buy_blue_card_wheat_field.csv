@@ -7,6 +7,7 @@ is_player_purple::outcome;true;true;true
 is_purple_phase_done::outcome;true;true;true
 cardWheatField::cost;!>playerBalance::value;!>playerBalance::value;>playerBalance::value
 tableCards::wheatField;!0;0;!0
+is_buyer_defined::outcome;false;false;false
 ---
 enabled;true;false;false;false
 tooltip;OK;No cards on the market;Not enough money;Not OK

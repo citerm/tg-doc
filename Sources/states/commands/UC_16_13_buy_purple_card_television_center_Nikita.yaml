@@ -12,6 +12,7 @@ table:
   bluePlayer: "Nikita"
   greenPlayer: "Nikita"
   purplePlayer: "Nikita"
+  buyer: "undefined"
   diceOne: "6"
   diceTwo: "0"
   diceTotal: "6"
