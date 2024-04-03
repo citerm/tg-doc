@@ -21,6 +21,11 @@ public class MachiKoroApplication {
         return new DecitaFacade(new PlainTextContentReader(tablesDirectory(), ".csv", ";")::allTables);
     }
 
+    @Bean
+    public Storages storages() {
+        return new Storages();
+    }
+
     private URI tablesDirectory() {
         return Path.of(
             Paths.get("").toAbsolutePath().toString(),
