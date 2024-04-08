@@ -26,6 +26,11 @@ public class MachiKoroApplication {
         return new Storages();
     }
 
+    @Bean
+    public Commands commands(Storages storages, DecitaFacade decitaFacade) {
+        return new Commands(storages, decitaFacade);
+    }
+
     private URI tablesDirectory() {
         return Path.of(
             Paths.get("").toAbsolutePath().toString(),
