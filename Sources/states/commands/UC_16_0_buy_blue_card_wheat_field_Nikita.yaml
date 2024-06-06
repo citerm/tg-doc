@@ -96,6 +96,8 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 buy_blue_card_wheat_field:
   enabled: "true"
   tooltip: "OK"

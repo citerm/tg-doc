@@ -71,5 +71,7 @@ cardAppleOrchard:
   phase: "blue"
   faceValueOne: "10"
 ---
+commands: []
+---
 play_green_card_shop:
   enabled: "true"

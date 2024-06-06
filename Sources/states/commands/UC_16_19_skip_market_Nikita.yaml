@@ -140,5 +140,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
+commands: []
+---
 skip_market:
   enabled: "true"

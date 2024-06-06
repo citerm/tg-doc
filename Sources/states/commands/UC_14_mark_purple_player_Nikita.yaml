@@ -81,5 +81,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 mark_purple_player:
   enabled: "true"

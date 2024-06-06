@@ -49,5 +49,7 @@ cardRestaurant:
   faceValueOne: "9"
   faceValueTwo: "10"
 ---
+commands: []
+---
 change_red_player:
   enabled: "true"

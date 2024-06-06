@@ -25,5 +25,7 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
+commands: []
+---
 roll_the_dices:
   enabled: "true"

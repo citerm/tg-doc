@@ -125,5 +125,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
+commands: []
+---
 buy_purple_card_television_center:
   enabled: "true"

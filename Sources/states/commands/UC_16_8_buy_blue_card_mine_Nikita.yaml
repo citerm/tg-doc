@@ -112,5 +112,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 buy_blue_card_mine:
   enabled: "true"

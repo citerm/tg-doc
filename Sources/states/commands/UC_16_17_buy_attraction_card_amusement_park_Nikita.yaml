@@ -137,5 +137,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
+commands: []
+---
 buy_attraction_card_amusement_park:
   enabled: "true"
