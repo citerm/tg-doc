@@ -18,5 +18,7 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
+commands: []
+---
 start_game:
   enabled: "true"

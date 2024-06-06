@@ -102,5 +102,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 buy_red_card_cafe:
   enabled: "true"

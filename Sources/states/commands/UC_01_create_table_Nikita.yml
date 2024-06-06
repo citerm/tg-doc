@@ -1,5 +1,7 @@
 request:
   player: "Nikita"
 ---
+commands: []
+---
 create_table:
   enabled: "true"

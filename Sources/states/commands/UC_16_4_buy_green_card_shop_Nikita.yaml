@@ -104,5 +104,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 buy_green_card_shop:
   enabled: "true"

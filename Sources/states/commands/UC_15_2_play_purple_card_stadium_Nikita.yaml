@@ -90,5 +90,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 play_purple_card_stadium:
   enabled: "true"

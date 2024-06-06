@@ -118,5 +118,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
+commands: []
+---
 buy_green_card_fruit_market:
   enabled: "true"
