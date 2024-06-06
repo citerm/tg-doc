@@ -15,4 +15,4 @@ cardBakery:
 commands: []
 ---
 card_bakery_available:
-  outcome: "true"
+  outcome: "false"
