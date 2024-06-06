@@ -11,5 +11,7 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
+commands: []
+---
 is_player_at_table:
   outcome: "true"

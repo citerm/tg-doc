@@ -3,5 +3,7 @@ request:
 table:
   greenPlayer: "Nikita"
 ---
+commands: []
+---
 is_player_green:
   outcome: "true"

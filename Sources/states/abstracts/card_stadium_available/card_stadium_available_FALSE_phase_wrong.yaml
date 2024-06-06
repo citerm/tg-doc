@@ -11,5 +11,7 @@ cardStadium:
   phase: "purple"
   faceValueOne: "6"
 ---
+commands: []
+---
 card_stadium_available:
   outcome: "false"

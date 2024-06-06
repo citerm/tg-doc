@@ -11,5 +11,7 @@ cardAppleOrchard:
   phase: "blue"
   faceValueOne: "10"
 ---
+commands: []
+---
 card_apple_orchard_available:
   outcome: "true"

@@ -11,5 +11,7 @@ cardShop:
   phase: "green"
   faceValueOne: "4"
 ---
+commands: []
+---
 card_shop_available:
   outcome: "false"

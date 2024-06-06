@@ -3,5 +3,7 @@ request:
 table:
   id: "0000"
 ---
+commands: []
+---
 is_chosen_table_id_correct:
   outcome: "false"

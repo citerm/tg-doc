@@ -1,15 +1,17 @@
 table:
   currentPlayer: "Nikita"
   redPlayer: "Nikita"
-  bluePlayer: "Nikita"
-  greenPlayer: "Eugene"
+  bluePlayer: "Eugene"
+  greenPlayer: "undefined"
   purplePlayer: "undefined"
-  diceTotal: "10"
+  diceTotal: "9"
 playerCards:
   appleOrchard: "1"
 cardAppleOrchard:
   phase: "blue"
   faceValueOne: "10"
+---
+commands: []
 ---
 card_apple_orchard_available:
   outcome: "false"

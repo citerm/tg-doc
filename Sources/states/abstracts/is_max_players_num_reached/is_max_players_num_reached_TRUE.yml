@@ -2,5 +2,7 @@ table:
   maxPlayers: "5"
   players: "5"
 ---
+commands: []
+---
 is_max_players_num_reached:
   outcome: "true"

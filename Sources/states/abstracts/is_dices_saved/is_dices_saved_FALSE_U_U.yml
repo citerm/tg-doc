@@ -2,5 +2,7 @@ table:
   diceOne: "undefined"
   diceTwo: "undefined"
 ---
+commands: []
+---
 is_dices_saved:
   outcome: "false"

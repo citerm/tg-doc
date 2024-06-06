@@ -1,5 +1,7 @@
 table:
   isStarted: "false"
 ---
+commands: []
+---
 is_game_started:
   outcome: "false"

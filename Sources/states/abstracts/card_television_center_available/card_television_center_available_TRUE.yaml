@@ -11,5 +11,7 @@ cardTelevisionCenter:
   phase: "purple"
   faceValueOne: "6"
 ---
+commands: []
+---
 card_television_center_available:
   outcome: "true"

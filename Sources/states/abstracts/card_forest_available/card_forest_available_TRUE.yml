@@ -11,5 +11,7 @@ cardForest:
   phase: "blue"
   faceValueOne: "5"
 ---
+commands: []
+---
 card_forest_available:
   outcome: "true"

@@ -1,5 +1,7 @@
 request:
   something: "anything"
 ---
+commands: []
+---
 is_player_defined:
   outcome: "false"

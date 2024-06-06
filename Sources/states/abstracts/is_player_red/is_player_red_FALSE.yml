@@ -3,5 +3,7 @@ request:
 table:
   redPlayer: "Eugene"
 ---
+commands: []
+---
 is_player_red:
   outcome: "false"

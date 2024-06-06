@@ -11,5 +11,7 @@ cardCheeseFactory:
   phase: "green"
   faceValueOne: "7"
 ---
+commands: []
+---
 card_cheese_factory_available:
   outcome: "true"

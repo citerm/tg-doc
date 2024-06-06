@@ -12,5 +12,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
+commands: []
+---
 card_fruit_market_available:
   outcome: "true"

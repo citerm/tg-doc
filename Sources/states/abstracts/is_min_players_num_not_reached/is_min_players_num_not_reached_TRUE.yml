@@ -2,5 +2,7 @@ table:
   minPlayers: "1"
   players: "1"
 ---
+commands: []
+---
 is_min_players_num_not_reached:
   outcome: "true"
