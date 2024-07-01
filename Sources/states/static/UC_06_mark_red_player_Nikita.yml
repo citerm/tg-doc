@@ -25,7 +25,7 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
-commands: []
+command: ""
 ---
 mark_red_player:
   enabled: "true"

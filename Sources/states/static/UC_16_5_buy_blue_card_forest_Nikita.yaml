@@ -106,7 +106,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
-commands: []
+command: ""
 ---
 buy_blue_card_forest:
   enabled: "true"

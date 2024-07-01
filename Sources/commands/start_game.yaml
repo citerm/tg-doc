@@ -1,0 +1,9 @@
+operations:
+  - "table::isStarted -> true"
+  - "table::currentPlayer -> undefined"
+  - "table::redPlayer -> undefined"
+  - "table::bluePlayer -> undefined"
+  - "table::greenPlayer -> undefined"
+  - "table::purplePlayer -> undefined"
+  - "table::diceOne -> undefined"
+  - "table::diceTwo -> undefined"

@@ -55,7 +55,7 @@ cardRestaurant:
   faceValueOne: "9"
   faceValueTwo: "10"
 ---
-commands: []
+command: ""
 ---
 play_blue_card_farm:
   enabled: "true"

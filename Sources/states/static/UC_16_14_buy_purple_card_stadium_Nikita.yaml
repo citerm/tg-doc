@@ -128,7 +128,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
-commands: []
+command: ""
 ---
 buy_purple_card_stadium:
   enabled: "true"

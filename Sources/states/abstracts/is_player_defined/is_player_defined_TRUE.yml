@@ -1,7 +1,7 @@
 request:
   player: "Nikita"
 ---
-commands: []
+command: ""
 ---
 is_player_defined:
   outcome: "true"

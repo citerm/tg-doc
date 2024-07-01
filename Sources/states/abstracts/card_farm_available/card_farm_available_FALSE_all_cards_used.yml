@@ -11,7 +11,7 @@ cardFarm:
   phase: "blue"
   faceValueOne: "2"
 ---
-commands: []
+command: ""
 ---
 card_farm_available:
   outcome: "false"

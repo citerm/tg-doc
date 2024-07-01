@@ -1,0 +1,26 @@
+request:
+  player: "Nikita"
+  tableId: "0000"
+table:
+  id: "0000"
+  isStarted: "false"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "2"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "Nikita"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+---
+command: "start_game"
+---
+start_game:
+  enabled: "false"
+mark_current_player:
+  enabled: "true"

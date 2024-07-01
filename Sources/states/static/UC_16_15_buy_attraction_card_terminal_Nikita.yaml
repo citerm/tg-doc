@@ -131,7 +131,7 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
-commands: []
+command: ""
 ---
 buy_attraction_card_terminal:
   enabled: "true"

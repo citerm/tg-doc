@@ -3,7 +3,7 @@ request:
 table:
   currentPlayer: "Nikita"
 ---
-commands: []
+command: ""
 ---
 is_player_current:
   outcome: "false"

@@ -61,7 +61,7 @@ cardRestaurant:
   faceValueOne: "9"
   faceValueTwo: "10"
 ---
-commands: []
+command: ""
 ---
 play_blue_card_mine:
   enabled: "true"

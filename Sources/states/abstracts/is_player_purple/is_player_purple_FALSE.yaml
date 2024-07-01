@@ -3,7 +3,7 @@ request:
 table:
   purplePlayer: "Eugene"
 ---
-commands: []
+command: ""
 ---
 is_player_purple:
   outcome: "false"

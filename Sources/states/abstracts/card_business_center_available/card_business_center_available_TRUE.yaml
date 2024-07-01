@@ -11,7 +11,7 @@ cardBusinessCenter:
   phase: "purple"
   faceValueOne: "6"
 ---
-commands: []
+command: ""
 ---
 card_business_center_available:
   outcome: "true"

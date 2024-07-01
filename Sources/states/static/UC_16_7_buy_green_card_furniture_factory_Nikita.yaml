@@ -110,7 +110,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
-commands: []
+command: ""
 ---
 buy_green_card_furniture_factory:
   enabled: "true"
