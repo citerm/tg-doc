@@ -1,0 +1,10 @@
+playerUniqueCards:
+  terminal: "1"
+  mall: "1"
+  amusementPark: "1"
+  radioTower: "1"
+---
+command: ""
+---
+is_player_has_all_attractions:
+  outcome: "true"
