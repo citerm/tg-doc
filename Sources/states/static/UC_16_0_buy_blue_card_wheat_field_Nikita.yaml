@@ -100,4 +100,3 @@ command: ""
 ---
 buy_blue_card_wheat_field:
   enabled: "true"
-  tooltip: "OK"
