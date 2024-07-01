@@ -1,0 +1,11 @@
+operations:
+  - "table::id -> ${function::tableOrder}"
+  - "table::isStarted -> false"
+  - "table::minPlayers -> 1"
+  - "table::maxPlayers -> 5"
+  - "table::players -> 0"
+  - "playerOne::name -> undefined"
+  - "playerTwo::name -> undefined"
+  - "playerThree::name -> undefined"
+  - "playerFour::name -> undefined"
+  - "playerFive::name -> undefined"

@@ -1,0 +1,210 @@
+request:
+  player: "Eugene"
+  tableId: "9999"
+function:
+  tableOrder: "9999"
+  playersCount: "2"
+table:
+  id: "9999"
+  isStarted: "false"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "1"
+playerOne:
+  name: "Nikita"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+playerBalance:
+  value: "0"
+cardTerminal:
+  cost: "4"
+cardMall:
+  cost: "10"
+cardAmusementPark:
+  cost: "16"
+cardRadioTower:
+  cost: "22"
+cardWheatField:
+  phase: "blue"
+  faceValueOne: "1"
+  cost: "1"
+cardFarm:
+  phase: "blue"
+  faceValueOne: "2"
+  cost: "1"
+cardBakery:
+  phase: "green"
+  faceValueOne: "2"
+  faceValueTwo: "3"
+  cost: "1"
+cardCafe:
+  phase: "red"
+  faceValueOne: "3"
+  cost: "2"
+cardShop:
+  phase: "green"
+  faceValueOne: "4"
+  cost: "2"
+cardForest:
+  phase: "blue"
+  faceValueOne: "5"
+  cost: "3"
+cardBusinessCenter:
+  phase: "purple"
+  faceValueOne: "6"
+  cost: "8"
+cardTelevisionCenter:
+  phase: "purple"
+  faceValueOne: "6"
+  cost: "7"
+cardStadium:
+  phase: "purple"
+  faceValueOne: "6"
+  cost: "6"
+cardCheeseFactory:
+  phase: "green"
+  faceValueOne: "7"
+  cost: "5"
+cardFurnitureFactory:
+  phase: "green"
+  faceValueOne: "8"
+  cost: "3"
+cardMine:
+  phase: "blue"
+  faceValueOne: "9"
+  cost: "6"
+cardRestaurant:
+  phase: "red"
+  faceValueOne: "9"
+  faceValueTwo: "10"
+  cost: "3"
+cardAppleOrchard:
+  phase: "blue"
+  faceValueOne: "10"
+  cost: "3"
+cardFruitMarket:
+  phase: "green"
+  faceValueOne: "11"
+  faceValueTwo: "12"
+  cost: "2"
+---
+command: "take_a_seat"
+---
+table:
+  id: "9999"
+  isStarted: "false"
+  minPlayers: "1"
+  maxPlayers: "5"
+  players: "2"
+playerOne:
+  name: "Eugene"
+playerTwo:
+  name: "undefined"
+playerThree:
+  name: "undefined"
+playerFour:
+  name: "undefined"
+playerFive:
+  name: "undefined"
+create_table:
+  enabled: "true"
+take_a_seat:
+  enabled: "false"
+start_game:
+  enabled: "true"
+mark_current_player:
+  enabled: "false"
+roll_the_dices:
+  enabled: "false"
+mark_red_player:
+  enabled: "false"
+play_red_card_cafe:
+  enabled: "false"
+play_red_card_restaurant:
+  enabled: "false"
+change_red_player:
+  enabled: "false"
+mark_blue_player:
+  enabled: "false"
+play_blue_card_wheat_field:
+  enabled: "false"
+play_blue_card_farm:
+  enabled: "false"
+play_blue_card_forest:
+  enabled: "false"
+play_blue_card_mine:
+  enabled: "false"
+play_blue_card_apple_orchard:
+  enabled: "false"
+change_blue_player:
+  enabled: "false"
+mark_green_player:
+  enabled: "false"
+play_green_card_bakery:
+  enabled: "false"
+play_green_card_shop:
+  enabled: "false"
+play_green_card_cheese_factory:
+  enabled: "false"
+play_green_card_furniture_factory:
+  enabled: "false"
+play_green_card_fruit_market:
+  enabled: "false"
+mark_purple_player:
+  enabled: "false"
+play_purple_card_business_center:
+  enabled: "false"
+play_purple_card_television_center:
+  enabled: "false"
+play_purple_card_stadium:
+  enabled: "false"
+buy_blue_card_wheat_field:
+  enabled: "false"
+buy_blue_card_farm:
+  enabled: "false"
+buy_green_card_bakery:
+  enabled: "false"
+buy_red_card_cafe:
+  enabled: "false"
+buy_green_card_shop:
+  enabled: "false"
+buy_blue_card_forest:
+  enabled: "false"
+buy_green_card_cheese_factory:
+  enabled: "false"
+buy_green_card_furniture_factory:
+  enabled: "false"
+buy_blue_card_mine:
+  enabled: "false"
+buy_red_card_restaurant:
+  enabled: "false"
+buy_blue_card_apple_orchard:
+  enabled: "false"
+buy_green_card_fruit_market:
+  enabled: "false"
+buy_purple_card_business_center:
+  enabled: "false"
+buy_purple_card_television_center:
+  enabled: "false"
+buy_purple_card_stadium:
+  enabled: "false"
+buy_attraction_card_terminal:
+  enabled: "false"
+buy_attraction_card_mall:
+  enabled: "false"
+buy_attraction_card_amusement_park:
+  enabled: "false"
+buy_attraction_card_radio_tower:
+  enabled: "false"
+skip_market:
+  enabled: "false"
+define_winner:
+  enabled: "false"
+change_current_player:
+  enabled: "false"
