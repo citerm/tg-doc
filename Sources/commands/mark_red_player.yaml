@@ -1,0 +1,2 @@
+operations:
+  - "table::redPlayer -> ${function::prevPlayerFromCurrent}"

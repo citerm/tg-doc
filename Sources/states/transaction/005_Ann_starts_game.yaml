@@ -1,21 +1,21 @@
 request:
-  player: "Eugene"
+  player: "Ann"
   tableId: "9999"
 function:
   tableOrder: "9999"
-  playersCount: "2"
+  playersCount: "3"
 table:
   id: "9999"
   isStarted: "false"
   minPlayers: "1"
   maxPlayers: "5"
-  players: "1"
+  players: "3"
 playerOne:
   name: "Nikita"
 playerTwo:
-  name: "undefined"
+  name: "Eugene"
 playerThree:
-  name: "undefined"
+  name: "Ann"
 playerFour:
   name: "undefined"
 playerFive:
@@ -94,16 +94,16 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
-command: "take_a_seat"
+command: "start_game"
 ---
 create_table:
   enabled: "true"
 take_a_seat:
   enabled: "false"
 start_game:
-  enabled: "true"
-mark_current_player:
   enabled: "false"
+mark_current_player:
+  enabled: "true"
 roll_the_dices:
   enabled: "false"
 mark_red_player:

@@ -1,21 +1,32 @@
 request:
-  player: "Eugene"
+  player: "Ann"
   tableId: "9999"
+  diceOne: "3"
+  diceTwo: "undefined"
 function:
   tableOrder: "9999"
-  playersCount: "2"
+  playersCount: "3"
+  rndPlayer: "Ann"
+  diceTotal: "3"
 table:
   id: "9999"
-  isStarted: "false"
+  isStarted: "true"
   minPlayers: "1"
   maxPlayers: "5"
-  players: "1"
+  players: "3"
+  currentPlayer: "Ann"
+  redPlayer: "undefined"
+  bluePlayer: "undefined"
+  greenPlayer: "undefined"
+  purplePlayer: "undefined"
+  diceOne: "undefined"
+  diceTwo: "undefined"
 playerOne:
   name: "Nikita"
 playerTwo:
-  name: "undefined"
+  name: "Eugene"
 playerThree:
-  name: "undefined"
+  name: "Ann"
 playerFour:
   name: "undefined"
 playerFive:
@@ -94,20 +105,20 @@ cardFruitMarket:
   faceValueTwo: "12"
   cost: "2"
 ---
-command: "take_a_seat"
+command: "roll_the_dices"
 ---
 create_table:
   enabled: "true"
 take_a_seat:
   enabled: "false"
 start_game:
-  enabled: "true"
+  enabled: "false"
 mark_current_player:
   enabled: "false"
 roll_the_dices:
   enabled: "false"
 mark_red_player:
-  enabled: "false"
+  enabled: "true"
 play_red_card_cafe:
   enabled: "false"
 play_red_card_restaurant:

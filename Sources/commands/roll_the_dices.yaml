@@ -1,0 +1,4 @@
+operations:
+  - "table::diceTotal -> ${function::diceTotal}"
+  - "table::diceOne -> ${request::diceOne}"
+  - "table::diceTwo -> ${request::diceTwo}"
