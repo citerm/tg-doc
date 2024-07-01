@@ -11,7 +11,7 @@ playerFour:
 playerFive:
   name: "Toha"
 ---
-commands: []
+command: ""
 ---
 is_player_at_table:
   outcome: "false"

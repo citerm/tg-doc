@@ -11,7 +11,7 @@ cardFurnitureFactory:
   phase: "green"
   faceValueOne: "8"
 ---
-commands: []
+command: ""
 ---
 card_furniture_factory_available:
   outcome: "false"

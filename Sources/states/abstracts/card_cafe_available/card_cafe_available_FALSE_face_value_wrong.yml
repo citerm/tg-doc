@@ -11,7 +11,7 @@ cardCafe:
   phase: "red"
   faceValueOne: "3"
 ---
-commands: []
+command: ""
 ---
 card_cafe_available:
   outcome: "false"

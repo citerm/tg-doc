@@ -11,7 +11,7 @@ cardWheatField:
   phase: "blue"
   faceValueOne: "1"
 ---
-commands: []
+command: ""
 ---
 card_wheat_field_available:
   outcome: "false"

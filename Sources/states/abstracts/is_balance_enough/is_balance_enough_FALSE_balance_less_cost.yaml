@@ -5,7 +5,7 @@ cardWheatField:
   faceValueOne: "1"
   cost: "1"
 ---
-commands: []
+command: ""
 ---
 is_balance_enough:
   outcome: "false"

@@ -12,7 +12,7 @@ cardRestaurant:
   faceValueOne: "9"
   faceValueTwo: "10"
 ---
-commands: []
+command: ""
 ---
 card_restaurant_available:
   outcome: "true"

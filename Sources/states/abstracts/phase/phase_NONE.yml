@@ -5,7 +5,7 @@ table:
   greenPlayer: "undefined"
   purplePlayer: "undefined"
 ---
-commands: []
+command: ""
 ---
 phase:
   outcome: "none"

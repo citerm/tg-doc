@@ -18,7 +18,7 @@ playerFour:
 playerFive:
   name: "undefined"
 ---
-commands: []
+command: ""
 ---
 take_a_seat:
   enabled: "true"

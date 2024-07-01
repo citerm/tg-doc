@@ -11,7 +11,7 @@ cardMine:
   phase: "blue"
   faceValueOne: "9"
 ---
-commands: []
+command: ""
 ---
 card_mine_available:
   outcome: "false"

@@ -12,7 +12,7 @@ cardBakery:
   faceValueOne: "2"
   faceValueTwo: "3"
 ---
-commands: []
+command: ""
 ---
 card_bakery_available:
   outcome: "true"

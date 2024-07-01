@@ -64,7 +64,7 @@ cardAppleOrchard:
   phase: "blue"
   faceValueOne: "10"
 ---
-commands: []
+command: ""
 ---
 mark_green_player:
   enabled: "true"

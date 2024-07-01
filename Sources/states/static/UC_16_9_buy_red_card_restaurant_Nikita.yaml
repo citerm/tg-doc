@@ -114,7 +114,7 @@ cardFruitMarket:
   faceValueOne: "11"
   faceValueTwo: "12"
 ---
-commands: []
+command: ""
 ---
 buy_red_card_restaurant:
   enabled: "true"

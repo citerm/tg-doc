@@ -77,7 +77,7 @@ cardAppleOrchard:
   phase: "blue"
   faceValueOne: "10"
 ---
-commands: []
+command: ""
 ---
 play_green_card_furniture_factory:
   enabled: "true"

@@ -49,7 +49,7 @@ cardRestaurant:
   faceValueOne: "9"
   faceValueTwo: "10"
 ---
-commands: []
+command: ""
 ---
 mark_blue_player:
   enabled: "true"

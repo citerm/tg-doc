@@ -2,7 +2,7 @@ table:
   diceOne: "1"
   diceTwo: "1"
 ---
-commands: []
+command: ""
 ---
 is_dices_saved:
   outcome: "true"
