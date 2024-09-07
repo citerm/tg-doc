@@ -1,0 +1,4 @@
+HDR;is_max_players_num_reached;false;true
+ASG;table::maxPlayers;5;5
+ASG;table::players;4;5
+CND;is_max_players_num_reached::outcome;false;true

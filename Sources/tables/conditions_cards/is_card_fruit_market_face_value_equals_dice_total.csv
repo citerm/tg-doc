@@ -1,3 +1,2 @@
-table::diceTotal;cardFruitMarket::faceValueOne;cardFruitMarket::faceValueTwo
----
-outcome;true;true;false
+CND;table::diceTotal;cardFruitMarket::faceValueOne;cardFruitMarket::faceValueTwo
+OUT;outcome;true;true;false

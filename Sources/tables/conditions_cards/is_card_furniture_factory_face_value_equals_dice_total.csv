@@ -1,3 +1,2 @@
-cardFurnitureFactory::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardFurnitureFactory::faceValueOne;table::diceTotal
+OUT;outcome;true;false

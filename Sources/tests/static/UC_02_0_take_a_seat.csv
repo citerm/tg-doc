@@ -1,0 +1,14 @@
+HDR;UC_02 take_a_seat;Eugene;Nikita
+ASG;request::player;Eugene;Nikita
+ASG;request::tableId;0000;0000
+ASG;table::id;0000;0000
+ASG;table::isStarted;false;false
+ASG;table::minPlayers;1;1
+ASG;table::maxPlayers;5;5
+ASG;table::players;0;1
+ASG;playerOne::name;undefined;Eugene
+ASG;playerTwo::name;undefined;undefined
+ASG;playerThree::name;undefined;undefined
+ASG;playerFour::name;undefined;undefined
+ASG;playerFive::name;undefined;undefined
+CND;take_a_seat::enabled;true;true

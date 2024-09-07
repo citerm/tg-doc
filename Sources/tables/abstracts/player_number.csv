@@ -1,7 +1,6 @@
-playerOne::name;undefined;!undefined;!undefined;!undefined
-playerTwo::name;undefined;undefined;!undefined;!undefined
-playerThree::name;undefined;undefined;undefined;!undefined
-playerFour::name;undefined;undefined;undefined;undefined
-playerFive::name;undefined;undefined;undefined;undefined
----
-outcome;playerOne;playerTwo;playerThree;playerFour;playerFive
+CND;playerOne::name;undefined;!undefined;!undefined;!undefined
+CND;playerTwo::name;undefined;undefined;!undefined;!undefined
+CND;playerThree::name;undefined;undefined;undefined;!undefined
+CND;playerFour::name;undefined;undefined;undefined;undefined
+CND;playerFive::name;undefined;undefined;undefined;undefined
+OUT;outcome;playerOne;playerTwo;playerThree;playerFour;playerFive

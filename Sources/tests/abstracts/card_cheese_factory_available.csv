@@ -1,0 +1,11 @@
+HDR ;card_cheese_factory                    ;available ;phase wrong ;face value wrong ;all cards used
+ASG ;table::currentPlayer                   ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::redPlayer                       ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::bluePlayer                      ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::greenPlayer                     ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::purplePlayer                    ;undefined ;Nikita      ;undefined        ;undefined
+ASG ;table::diceTotal                       ;7         ;7           ;6                ;7
+ASG ;playerCards::cheeseFactory             ;1         ;1           ;1                ;0
+ASG ;cardCheeseFactory::phase               ;green     ;green       ;green            ;green
+ASG ;cardCheeseFactory::faceValueOne        ;7         ;7           ;7                ;7
+CND ;card_cheese_factory_available::outcome ;true      ;false       ;false            ;false

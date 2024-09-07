@@ -1,3 +1,2 @@
-request::player;table::purplePlayer
----
-outcome;true;false
+CND;request::player;table::purplePlayer
+OUT;outcome;true;false

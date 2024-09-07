@@ -1,3 +1,2 @@
-table::diceTotal;cardRestaurant::faceValueOne;cardRestaurant::faceValueTwo
----
-outcome;true;true;false
+CND;table::diceTotal;cardRestaurant::faceValueOne;cardRestaurant::faceValueTwo
+OUT;outcome;true;true;false

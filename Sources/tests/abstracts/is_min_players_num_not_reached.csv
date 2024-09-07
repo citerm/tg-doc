@@ -1,0 +1,4 @@
+HDR;is_min_players_num_not_reached;false;true
+ASG;table::minPlayers;1;2
+ASG;table::players;2;2
+CND;is_min_players_num_not_reached::outcome;false;true

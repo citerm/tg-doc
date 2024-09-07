@@ -1,3 +1,2 @@
-table::diceTotal;cardBakery::faceValueOne;cardBakery::faceValueTwo
----
-outcome;true;true;false
+CND;table::diceTotal;cardBakery::faceValueOne;cardBakery::faceValueTwo
+OUT;outcome;true;true;false

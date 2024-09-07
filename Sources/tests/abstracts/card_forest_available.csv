@@ -1,0 +1,11 @@
+HDR;card_forest;available;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Eugene;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;undefined;Nikita;undefined;undefined
+ASG;table::purplePlayer;undefined;undefined;undefined;undefined
+ASG;table::diceTotal;5;5;1;5
+ASG;playerCards::forest;1;1;1;0
+ASG;cardForest::phase;blue;blue;blue;blue
+ASG;cardForest::faceValueOne;5;5;5;5
+CND;card_forest_available::outcome;true;false;false;false

@@ -1,9 +1,0 @@
-request:
-  player: "Nikita"
-table:
-  currentPlayer: "Nikita"
----
-command: ""
----
-is_player_current:
-  outcome: "true"

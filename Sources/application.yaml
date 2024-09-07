@@ -1,4 +1,6 @@
 locators:
+  - request
+  - function
   - table
   - playerOne
   - playerTwo

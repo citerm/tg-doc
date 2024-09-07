@@ -1,0 +1,11 @@
+HDR;card_business_center;true - available;false - phase wrong;false - face value wrong;false - all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::purplePlayer;Nikita;undefined;Nikita;Nikita
+ASG;table::diceTotal;6;6;5;6
+ASG;playerCards::businessCenter;1;1;1;0
+ASG;cardBusinessCenter::phase;purple;purple;purple;purple
+ASG;cardBusinessCenter::faceValueOne;6;6;6;6
+CND;card_business_center_available::outcome;true;false;false;false

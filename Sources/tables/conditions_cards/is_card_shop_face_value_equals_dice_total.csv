@@ -1,3 +1,2 @@
-cardShop::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardShop::faceValueOne;table::diceTotal
+OUT;outcome;true;false

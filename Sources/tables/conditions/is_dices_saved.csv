@@ -1,4 +1,3 @@
-table::diceOne;undefined
-table::diceTwo;undefined
----
-outcome;false;true
+CND;table::diceOne;undefined
+CND;table::diceTwo;undefined
+OUT;outcome;false;true

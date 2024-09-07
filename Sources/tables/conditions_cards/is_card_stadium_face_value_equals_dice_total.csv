@@ -1,3 +1,2 @@
-cardStadium::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardStadium::faceValueOne;table::diceTotal
+OUT;outcome;true;false

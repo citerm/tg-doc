@@ -1,0 +1,21 @@
+HDR;UC_06 mark red player;Nikita
+ASG;request::player;Nikita
+ASG;request::tableId;0000
+ASG;table::id;0000
+ASG;table::isStarted;true
+ASG;table::minPlayers;1
+ASG;table::maxPlayers;5
+ASG;table::players;2
+ASG;table::currentPlayer;Nikita
+ASG;table::redPlayer;undefined
+ASG;table::bluePlayer;undefined
+ASG;table::greenPlayer;undefined
+ASG;table::purplePlayer;undefined
+ASG;table::diceOne;1
+ASG;table::diceTwo;undefined
+ASG;playerOne::name;Eugene
+ASG;playerTwo::name;Nikita
+ASG;playerThree::name;undefined
+ASG;playerFour::name;undefined
+ASG;playerFive::name;undefined
+CND;mark_red_player::enabled;true

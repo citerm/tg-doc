@@ -1,5 +1,4 @@
-is_card_mine_face_value_equals_dice_total::outcome;true
-playerCards::mine;!0
-cardMine::phase;phase::outcome
----
-outcome;true;false
+CND;is_card_mine_face_value_equals_dice_total::outcome;true
+CND;playerCards::mine;!0
+CND;cardMine::phase;phase::outcome
+OUT;outcome;true;false

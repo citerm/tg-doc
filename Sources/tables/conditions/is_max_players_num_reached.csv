@@ -1,3 +1,2 @@
-table::players;table::maxPlayers
----
-outcome;true;false
+CND;table::players;table::maxPlayers
+OUT;outcome;true;false

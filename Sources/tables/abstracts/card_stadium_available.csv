@@ -1,5 +1,4 @@
-is_card_stadium_face_value_equals_dice_total::outcome;true
-playerCards::stadium;!0
-cardStadium::phase;phase::outcome
----
-outcome;true;false
+CND;is_card_stadium_face_value_equals_dice_total::outcome;true
+CND;playerCards::stadium;!0
+CND;cardStadium::phase;phase::outcome
+OUT;outcome;true;false

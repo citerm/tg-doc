@@ -1,0 +1,6 @@
+HDR;player_has_all_attractions;false;true
+ASG;playerUniqueCards::terminal;1;1
+ASG;playerUniqueCards::mall;1;1
+ASG;playerUniqueCards::amusementPark;1;1
+ASG;playerUniqueCards::radioTower;0;1
+CND;is_player_has_all_attractions::outcome;false;true

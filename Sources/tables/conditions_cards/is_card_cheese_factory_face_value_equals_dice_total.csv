@@ -1,3 +1,2 @@
-cardCheeseFactory::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardCheeseFactory::faceValueOne;table::diceTotal
+OUT;outcome;true;false

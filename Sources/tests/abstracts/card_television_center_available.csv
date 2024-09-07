@@ -1,0 +1,11 @@
+HDR;card_television_center;available;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::purplePlayer;Nikita;undefined;Nikita;Nikita
+ASG;table::diceTotal;6;6;1;6
+ASG;playerCards::televisionCenter;1;1;1;0
+ASG;cardTelevisionCenter::phase;purple;purple;purple;purple
+ASG;cardTelevisionCenter::faceValueOne;6;6;6;6
+CND;card_television_center_available::outcome;true;false;false;false

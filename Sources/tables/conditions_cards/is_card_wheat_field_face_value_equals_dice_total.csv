@@ -1,3 +1,2 @@
-cardWheatField::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardWheatField::faceValueOne;table::diceTotal
+OUT;outcome;true;false

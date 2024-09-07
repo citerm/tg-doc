@@ -1,9 +1,0 @@
-request:
-  player: "Nikita"
-table:
-  bluePlayer: "Nikita"
----
-command: ""
----
-is_player_blue:
-  outcome: "true"

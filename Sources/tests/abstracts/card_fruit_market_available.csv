@@ -1,0 +1,12 @@
+HDR;card_fruit_market;available - dice 12;available - dice 11;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Nikita;Nikita;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;Nikita;Nikita;Nikita;Nikita;Nikita
+ASG;table::purplePlayer;undefined;undefined;Nikita;undefined;undefined
+ASG;table::diceTotal;12;11;12;1;12
+ASG;playerCards::fruitMarket;1;1;1;1;0
+ASG;cardFruitMarket::phase;green;green;green;green;green
+ASG;cardFruitMarket::faceValueOne;11;11;11;11;11
+ASG;cardFruitMarket::faceValueTwo;12;12;12;12;12
+CND;card_fruit_market_available::outcome;true;true;false;false;false

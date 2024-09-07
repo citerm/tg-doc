@@ -1,3 +1,2 @@
-cardFarm::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardFarm::faceValueOne;table::diceTotal
+OUT;outcome;true;false

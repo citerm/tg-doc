@@ -1,0 +1,4 @@
+HDR;is_player_defined;false;true
+ASG;request::something;anything;anything
+ASG;request::player;undefined;Eugene
+CND;is_player_defined::outcome;false;true

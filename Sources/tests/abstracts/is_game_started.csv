@@ -1,0 +1,3 @@
+HDR;is_game_started;false;true
+ASG;table::isStarted;false;true
+CND;is_game_started::outcome;false;true

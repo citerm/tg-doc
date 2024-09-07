@@ -1,7 +1,0 @@
-request:
-  player: "Nikita"
----
-command: ""
----
-create_table:
-  enabled: "true"

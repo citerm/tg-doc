@@ -1,0 +1,4 @@
+HDR;is_chosen_table_id_correct;true;false
+ASG;request::tableId;0000;0001
+ASG;table::id;0000;0000
+CND;is_chosen_table_id_correct::outcome;true;false

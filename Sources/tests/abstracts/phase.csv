@@ -1,0 +1,7 @@
+HDR ;phase                ;dice      ;red       ;blue      ;green     ;purple
+ASG ;table::currentPlayer ;Nikita    ;Nikita    ;Nikita    ;Nikita    ;Nikita
+ASG ;table::redPlayer     ;undefined ;Nikita    ;Nikita    ;Nikita    ;Nikita
+ASG ;table::bluePlayer    ;undefined ;undefined ;Nikita    ;Nikita    ;Nikita
+ASG ;table::greenPlayer   ;undefined ;undefined ;undefined ;Nikita    ;Nikita
+ASG ;table::purplePlayer  ;undefined ;undefined ;undefined ;undefined ;Nikita
+CND ;phase::outcome       ;dice      ;red       ;blue      ;green     ;purple

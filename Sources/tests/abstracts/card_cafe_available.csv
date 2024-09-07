@@ -1,0 +1,11 @@
+HDR;card_cafe_available;true;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Eugene;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;undefined;Nikita;undefined;undefined
+ASG;table::greenPlayer;undefined;undefined;undefined;undefined
+ASG;table::purplePlayer;undefined;undefined;undefined;undefined
+ASG;table::diceTotal;3;3;4;3
+ASG;playerCards::cafe;1;1;1;0
+ASG;cardCafe::phase;red;red;red;red
+ASG;cardCafe::faceValueOne;3;3;3;3
+CND;card_cafe_available::outcome;true;false;false;false

@@ -1,3 +1,2 @@
-cardCafe::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardCafe::faceValueOne;table::diceTotal
+OUT;outcome;true;false

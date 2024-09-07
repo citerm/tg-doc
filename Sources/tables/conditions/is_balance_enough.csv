@@ -1,3 +1,2 @@
-cardWheatField::cost;!>playerBalance::value
----
-outcome;true;false
+CND;cardWheatField::cost;!>playerBalance::value
+OUT;outcome;true;false

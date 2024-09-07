@@ -1,0 +1,6 @@
+HDR;balance;more than cost;equal to cost;less than cost
+ASG;playerBalance::value;2;1;0
+ASG;cardWheatField::phase;blue;blue;blue
+ASG;cardWheatField::faceValueOne;1;1;1
+ASG;cardWheatField::cost;1;1;1
+CND;is_balance_enough::outcome;true;true;false

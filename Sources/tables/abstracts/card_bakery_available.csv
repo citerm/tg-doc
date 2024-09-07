@@ -1,5 +1,4 @@
-is_card_bakery_face_value_equals_dice_total::outcome;true
-playerCards::bakery;!0
-cardBakery::phase;phase::outcome
----
-outcome;true;false
+CND;is_card_bakery_face_value_equals_dice_total::outcome;true
+CND;playerCards::bakery;!0
+CND;cardBakery::phase;phase::outcome
+OUT;outcome;true;false

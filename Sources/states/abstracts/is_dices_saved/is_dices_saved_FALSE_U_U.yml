@@ -1,8 +1,0 @@
-table:
-  diceOne: "undefined"
-  diceTwo: "undefined"
----
-command: ""
----
-is_dices_saved:
-  outcome: "false"

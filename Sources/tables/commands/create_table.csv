@@ -1,3 +1,12 @@
-is_player_defined::outcome;true
----
-enabled;true;false
+CND ;is_player_defined::outcome ;true
+OUT ;enabled                    ;true ;false
+ASG;table::id;${function::tableOrder}
+ASG;table::isStarted;false
+ASG;table::minPlayers;1
+ASG;table::maxPlayers;5
+ASG;table::players;0
+ASG;playerOne::name;undefined
+ASG;playerTwo::name;undefined
+ASG;playerThree::name;undefined
+ASG;playerFour::name;undefined
+ASG;playerFive::name;undefined
