@@ -66,6 +66,8 @@ ASG;cardFruitMarket::faceValueOne;11
 ASG;cardFruitMarket::faceValueTwo;12
 ASG;cardFruitMarket::cost;2
 OUT;execute;take_a_seat
+ASG;request::player;Eugene
+ASG;request::tableId;9999
 CND;create_table::enabled;true
 CND;take_a_seat::enabled;false
 CND;start_game::enabled;true
