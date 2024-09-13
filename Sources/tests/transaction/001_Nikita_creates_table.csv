@@ -1,6 +1,6 @@
 ASG;request::player;Nikita
 ASG;request::tableId;9999
-ASG;function::tableOrder;9999
+CMT;function::tableOrder;9999
 ASG;playerBalance::value;0
 ASG;cardTerminal::cost;4
 ASG;cardMall::cost;10

@@ -5,7 +5,7 @@ ASG;request::diceTwo;undefined
 ASG;function::tableOrder;9999
 ASG;function::playersCount;3
 ASG;function::rndPlayer;Ann
-ASG;function::diceTotal;3
+CMT;function::diceTotal;3
 ASG;table::id;9999
 ASG;table::isStarted;true
 ASG;table::minPlayers;1
