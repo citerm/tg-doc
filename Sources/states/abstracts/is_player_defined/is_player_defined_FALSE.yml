@@ -1,7 +1,0 @@
-request:
-  something: "anything"
----
-command: ""
----
-is_player_defined:
-  outcome: "false"

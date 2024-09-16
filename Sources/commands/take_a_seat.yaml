@@ -1,3 +1,0 @@
-operations:
-  - "table::players -> ${function::playersCount}"
-  - "${player_number::outcome}::name -> ${request::player}"

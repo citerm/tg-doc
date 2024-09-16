@@ -1,3 +1,2 @@
-table::buyer;undefined
----
-outcome;false;true
+CND;table::buyer;undefined
+OUT;outcome;false;true

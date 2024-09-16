@@ -1,3 +1,2 @@
-cardForest::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardForest::faceValueOne;table::diceTotal
+OUT;outcome;true;false

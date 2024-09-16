@@ -1,0 +1,4 @@
+HDR;is_player_purple;false;true
+ASG;request::player;Nikita;Nikita
+ASG;table::purplePlayer;Eugene;Nikita
+CND;is_player_purple::outcome;false;true

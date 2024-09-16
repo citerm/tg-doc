@@ -1,7 +1,0 @@
-request:
-  player: "Nikita"
----
-command: ""
----
-is_player_defined:
-  outcome: "true"

@@ -1,3 +1,2 @@
-request::player;undefined
----
-outcome;false;true
+CND ;request::player ;undefined
+OUT ;outcome         ;false     ;true

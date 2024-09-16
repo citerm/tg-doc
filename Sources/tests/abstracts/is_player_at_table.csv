@@ -1,0 +1,8 @@
+HDR ;is_player_at_table          ;true      ;false     ;false - full
+ASG ;request::player             ;Nikita    ;Nikita    ;Nikita
+ASG ;playerOne::name             ;Nikita    ;Eugene    ;Eugene
+ASG ;playerTwo::name             ;undefined ;undefined ;Eugene
+ASG ;playerThree::name           ;undefined ;undefined ;Eugene
+ASG ;playerFour::name            ;undefined ;undefined ;Eugene
+ASG ;playerFive::name            ;undefined ;undefined ;Eugene
+CND ;is_player_at_table::outcome ;true      ;false     ;false

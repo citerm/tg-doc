@@ -1,0 +1,11 @@
+HDR ;card_furniture_factory                    ;available ;phase wrong ;face value wrong ;all cards used
+ASG ;table::currentPlayer                      ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::redPlayer                          ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::bluePlayer                         ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::greenPlayer                        ;Nikita    ;undefined   ;Nikita           ;Nikita
+ASG ;table::purplePlayer                       ;undefined ;undefined   ;undefined        ;undefined
+ASG ;table::diceTotal                          ;8         ;8           ;3                ;8
+ASG ;playerCards::furnitureFactory             ;1         ;1           ;1                ;0
+ASG ;cardFurnitureFactory::phase               ;green     ;green       ;green            ;green
+ASG ;cardFurnitureFactory::faceValueOne        ;8         ;8           ;8                ;8
+CND ;card_furniture_factory_available::outcome ;true      ;false       ;false            ;false

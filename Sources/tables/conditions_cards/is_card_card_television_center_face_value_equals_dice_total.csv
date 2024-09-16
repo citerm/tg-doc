@@ -1,3 +1,2 @@
-cardTelevisionCenter::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardTelevisionCenter::faceValueOne;table::diceTotal
+OUT;outcome;true;false

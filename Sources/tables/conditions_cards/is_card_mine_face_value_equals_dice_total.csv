@@ -1,3 +1,2 @@
-cardMine::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardMine::faceValueOne;table::diceTotal
+OUT;outcome;true;false

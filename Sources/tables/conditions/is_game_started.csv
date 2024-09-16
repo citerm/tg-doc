@@ -1,3 +1,2 @@
-table::isStarted;true
----
-outcome;true;false
+CND;table::isStarted;true
+OUT;outcome;true;false

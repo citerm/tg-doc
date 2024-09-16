@@ -1,3 +1,2 @@
-table::currentPlayer;undefined
----
-outcome;false;true
+CND;table::currentPlayer;undefined
+OUT;outcome;false;true

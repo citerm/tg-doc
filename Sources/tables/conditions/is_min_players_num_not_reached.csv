@@ -1,3 +1,2 @@
-table::players;table::minPlayers
----
-outcome;true;false
+CND;table::players;table::minPlayers
+OUT;outcome;true;false

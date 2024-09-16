@@ -1,7 +1,6 @@
-playerOne::name;!request::player
-playerTwo::name;!request::player
-playerThree::name;!request::player
-playerFour::name;!request::player
-playerFive::name;!request::player
----
-outcome;false;true
+CND;playerOne::name;!request::player
+CND;playerTwo::name;!request::player
+CND;playerThree::name;!request::player
+CND;playerFour::name;!request::player
+CND;playerFive::name;!request::player
+OUT;outcome;false;true

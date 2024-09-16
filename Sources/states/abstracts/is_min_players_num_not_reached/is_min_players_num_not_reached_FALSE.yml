@@ -1,8 +1,0 @@
-table:
-  minPlayers: "1"
-  players: "2"
----
-command: ""
----
-is_min_players_num_not_reached:
-  outcome: "false"

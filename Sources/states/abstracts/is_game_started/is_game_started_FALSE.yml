@@ -1,7 +1,0 @@
-table:
-  isStarted: "false"
----
-command: ""
----
-is_game_started:
-  outcome: "false"

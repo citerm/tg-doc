@@ -1,0 +1,12 @@
+HDR ;card_bakery_available          ;true - dice total 3 ;true - dice total 2 ;false - phase wrong ;false - face value wrong ;false - all cards used
+ASG ;table::currentPlayer           ;Nikita              ;Nikita              ;Nikita              ;Nikita                   ;Nikita
+ASG ;table::redPlayer               ;Nikita              ;Nikita              ;Nikita              ;Nikita                   ;Nikita
+ASG ;table::bluePlayer              ;Nikita              ;Nikita              ;Nikita              ;Nikita                   ;Nikita
+ASG ;table::greenPlayer             ;Nikita              ;Nikita              ;undefined           ;Nikita                   ;Nikita
+ASG ;table::purplePlayer            ;undefined           ;undefined           ;undefined           ;undefined                ;undefined
+ASG ;table::diceTotal               ;3                   ;2                   ;3                   ;4                        ;4
+ASG ;playerCards::bakery            ;1                   ;1                   ;1                   ;1                        ;0
+ASG ;cardBakery::phase              ;green               ;green               ;green               ;green                    ;green
+ASG ;cardBakery::faceValueOne       ;2                   ;2                   ;2                   ;2                        ;2
+ASG ;cardBakery::faceValueTwo       ;3                   ;3                   ;3                   ;3                        ;3
+CND ;card_bakery_available::outcome ;true                ;true                ;false               ;false                    ;false

@@ -1,4 +1,3 @@
-card_cafe_available::outcome;false
-card_restaurant_available::outcome;false
----
-outcome;true;false
+CND;card_cafe_available::outcome;false
+CND;card_restaurant_available::outcome;false
+OUT;outcome;true;false

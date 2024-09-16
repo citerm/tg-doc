@@ -1,0 +1,11 @@
+HDR;card_shop;available;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;Nikita;undefined;Nikita;Nikita
+ASG;table::purplePlayer;undefined;undefined;undefined;undefined
+ASG;table::diceTotal;4;4;1;4
+ASG;playerCards::shop;1;1;1;0
+ASG;cardShop::phase;green;green;green;green
+ASG;cardShop::faceValueOne;4;4;4;4
+CND;card_shop_available::outcome;true;false;false;false

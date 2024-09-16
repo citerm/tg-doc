@@ -1,7 +1,14 @@
-is_player_defined::outcome;true
-is_chosen_table_id_correct::outcome;true
-is_game_started::outcome;false
-is_min_players_num_not_reached::outcome;false
-is_player_at_table::outcome;true
----
-enabled;true;false
+CND ;is_player_defined::outcome              ;true
+CND ;is_chosen_table_id_correct::outcome     ;true
+CND ;is_game_started::outcome                ;false
+CND ;is_min_players_num_not_reached::outcome ;false
+CND ;is_player_at_table::outcome             ;true
+OUT ;enabled                                 ;true      ;false
+ASG ;table::isStarted                        ;true
+ASG ;table::currentPlayer                    ;undefined
+ASG ;table::redPlayer                        ;undefined
+ASG ;table::bluePlayer                       ;undefined
+ASG ;table::greenPlayer                      ;undefined
+ASG ;table::purplePlayer                     ;undefined
+ASG ;table::diceOne                          ;undefined
+ASG ;table::diceTwo                          ;undefined

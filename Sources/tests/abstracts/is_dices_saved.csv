@@ -1,0 +1,4 @@
+HDR;is_dices_saved;false U U;true D D;true D U;true U D
+ASG;table::diceOne;undefined;defined;defined;undefined
+ASG;table::diceTwo;undefined;defined;undefined;defined
+CND;is_dices_saved::outcome;false;true;true;true

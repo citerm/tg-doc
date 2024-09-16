@@ -1,0 +1,11 @@
+HDR;card_wheat_field;available;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Nikita;Nikita;Nikita;Nikita
+ASG;table::bluePlayer;Eugene;Nikita;Nikita;Nikita
+ASG;table::greenPlayer;undefined;Nikita;undefined;undefined
+ASG;table::purplePlayer;undefined;undefined;undefined;undefined
+ASG;table::diceTotal;1;1;3;1
+ASG;playerCards::wheatField;1;1;1;0
+ASG;cardWheatField::phase;blue;blue;blue;blue
+ASG;cardWheatField::faceValueOne;1;1;1;1
+CND;card_wheat_field_available::outcome;true;false;false;false

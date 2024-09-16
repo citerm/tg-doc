@@ -1,0 +1,4 @@
+HDR;is_player_current;false;true
+ASG;request::player;Eugene;Eugene
+ASG;table::currentPlayer;Nikita;Eugene
+CND;is_player_current::outcome;false;true

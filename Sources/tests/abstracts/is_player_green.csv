@@ -1,0 +1,4 @@
+HDR;is_player_green;false;true
+ASG;request::player;Nikita;Eugene
+ASG;table::greenPlayer;Eugene;Eugene
+CND;is_player_green::outcome;false;true

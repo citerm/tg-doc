@@ -1,0 +1,11 @@
+HDR ;card_apple_orchard                    ;true      ;false - all cards used ;false - face value wrong ;false - phase wrong
+ASG ;table::currentPlayer                  ;Nikita    ;Nikita                 ;Nikita                   ;Nikita
+ASG ;table::redPlayer                      ;Nikita    ;Nikita                 ;Nikita                   ;Nikita
+ASG ;table::bluePlayer                     ;Eugene    ;Eugene                 ;Eugene                   ;Eugene
+ASG ;table::greenPlayer                    ;undefined ;undefined              ;undefined                ;Eugene
+ASG ;table::purplePlayer                   ;undefined ;undefined              ;undefined                ;undefined
+ASG ;table::diceTotal                      ;10        ;10                     ;9                        ;10
+ASG ;playerCards::appleOrchard             ;1         ;0                      ;1                        ;1
+ASG ;cardAppleOrchard::phase               ;blue      ;blue                   ;blue                     ;blue
+ASG ;cardAppleOrchard::faceValueOne        ;10        ;10                     ;10                       ;10
+CND ;card_apple_orchard_available::outcome ;true      ;false                  ;false                    ;false

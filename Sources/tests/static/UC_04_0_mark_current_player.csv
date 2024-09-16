@@ -1,0 +1,21 @@
+HDR;UC_04 mark current player;Eugene;Nikita
+ASG;request::player;Eugene;Nikita
+ASG;request::tableId;0000;0000
+ASG;table::id;0000;0000
+ASG;table::isStarted;true;true;
+ASG;table::minPlayers;1;1
+ASG;table::maxPlayers;5;5
+ASG;table::players;2;2
+ASG;table::currentPlayer;undefined;undefined
+ASG;table::redPlayer;undefine;undefinedd
+ASG;table::bluePlayer;undefine;undefinedd
+ASG;table::greenPlayer;undefine;undefinedd
+ASG;table::purplePlayer;undefine;undefinedd
+ASG;table::diceOne;undefine;undefinedd
+ASG;table::diceTwo;undefine;undefinedd
+ASG;playerOne::name;Eugene;Eugene
+ASG;playerTwo::name;Nikita;Nikita
+ASG;playerThree::name;undefined;undefined
+ASG;playerFour::name;undefined;undefined
+ASG;playerFive::name;undefined;undefined
+CND;mark_current_player::enabled;true;true

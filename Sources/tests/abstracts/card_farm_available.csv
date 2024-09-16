@@ -1,0 +1,11 @@
+HDR ;card_farm                    ;available ;phase wrong ;face value wrong ;all cards used
+ASG ;table::currentPlayer         ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::redPlayer             ;Nikita    ;Nikita      ;Nikita           ;Nikita
+ASG ;table::bluePlayer            ;Eugene    ;undefined   ;Nikita           ;Nikita
+ASG ;table::greenPlayer           ;undefined ;undefined   ;undefined        ;undefined
+ASG ;table::purplePlayer          ;undefined ;undefined   ;undefined        ;undefined
+ASG ;table::diceTotal             ;2         ;2           ;4                ;2
+ASG ;playerCards::farm            ;1         ;1           ;1                ;0
+ASG ;cardFarm::phase              ;blue      ;blue        ;blue             ;blue
+ASG ;cardFarm::faceValueOne       ;2         ;2           ;2                ;2
+CND ;card_farm_available::outcome ;true      ;false       ;false            ;false

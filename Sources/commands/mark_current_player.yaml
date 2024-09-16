@@ -1,2 +1,0 @@
-operations:
-  - "table::currentPlayer -> ${function::rndPlayer}"

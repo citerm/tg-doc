@@ -1,7 +1,6 @@
-card_bakery_available::outcome;false
-card_cheese_factory_available::outcome;false
-card_fruit_market_available::outcome;false
-card_furniture_factory_available::outcome;false
-card_shop_available::outcome;false
----
-outcome;true;false
+CND;card_bakery_available::outcome;false
+CND;card_cheese_factory_available::outcome;false
+CND;card_fruit_market_available::outcome;false
+CND;card_furniture_factory_available::outcome;false
+CND;card_shop_available::outcome;false
+OUT;outcome;true;false

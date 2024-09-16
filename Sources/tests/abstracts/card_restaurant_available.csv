@@ -1,0 +1,12 @@
+HDR;card_restaurant;available - dice 9;available - dice 10;phase wrong;face value wrong;all cards used
+ASG;table::currentPlayer;Nikita;Nikita;Nikita;Nikita;Nikita
+ASG;table::redPlayer;Eugene;Nikita;undefined;Nikita;Nikita
+ASG;table::bluePlayer;undefined;undefined;undefined;undefined;undefined
+ASG;table::greenPlayer;undefined;undefined;undefined;undefined;undefined
+ASG;table::purplePlayer;undefined;undefined;undefined;undefined;undefined
+ASG;table::diceTotal;9;10;9;12;9
+ASG;playerCards::restaurant;1;1;1;1;0
+ASG;cardRestaurant::phase;red;red;red;red;red
+ASG;cardRestaurant::faceValueOne;9;9;9;9;9
+ASG;cardRestaurant::faceValueTwo;10;10;10;10;10
+CND;card_restaurant_available::outcome;true;true;false;false;false

@@ -1,3 +1,2 @@
-cardBusinessCenter::faceValueOne;table::diceTotal
----
-outcome;true;false
+CND;cardBusinessCenter::faceValueOne;table::diceTotal
+OUT;outcome;true;false
