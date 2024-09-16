@@ -54,7 +54,7 @@ ASG;cardFruitMarket::phase;green
 ASG;cardFruitMarket::faceValueOne;11
 ASG;cardFruitMarket::faceValueTwo;12
 ASG;cardFruitMarket::cost;2
-OUT;execute;create_table
+EXE;command;create_table
 ASG;request::player;Nikita
 ASG;request::tableId;9999
 CND;create_table::enabled;true

@@ -1,7 +1,7 @@
 ASG;request::player;Ann
 ASG;request::tableId;9999
-ASG;function::tableOrder;9999
-ASG;function::playersCount;3
+CMT;function::tableOrder;9999
+CMT;function::playersCount;3
 ASG;function::rndPlayer;Ann
 ASG;table::id;9999
 ASG;table::isStarted;true
@@ -73,7 +73,7 @@ ASG;cardFruitMarket::phase;green
 ASG;cardFruitMarket::faceValueOne;11
 ASG;cardFruitMarket::faceValueTwo;12
 ASG;cardFruitMarket::cost;2
-OUT;execute;mark_current_player
+EXE;command;mark_current_player
 ASG;request::player;Ann
 ASG;request::tableId;9999
 CND;create_table::enabled;true
